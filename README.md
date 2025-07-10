@@ -17,9 +17,8 @@ An interactive Power BI dashboard visualizing population growth trends across U.
 
 ## 📸 Screenshots
 
-| Dashboard Overview | Population Insights |
-|--------------------|---------------------|
-| https://surl.li/fsdgqy | https://surl.lt/kwyuag |
+| [Dashboard Overview](https://surl.li/fsdgqy) | [Population Insights](https://surl.lt/kwyuag) |
+
 ## 📂 Project Structure
 
 - `dashboard/`: Power BI `.pbix` file
